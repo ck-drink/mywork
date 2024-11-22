@@ -3,9 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "example.com",
-        "example1.com",
-        "hellow.example2.net"
+        "m-team.cc",
+        "m-team.io"
       ]
     }
   ]
