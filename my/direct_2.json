@@ -2,11 +2,16 @@
   "version": 1,
   "rules": [
     {
+      "domain": ["embyvip.misakaf.org"],
       "domain_suffix": [
         "m-team.cc",
         "m-team.io",
-        "cokedrink.top"
-      ]
+        "cokedrink.top",
+        "cctv.com",
+        "cctvpic.com",
+        "livechina.com"
+      ],
+      "domain_keyword": []
     }
   ]
 }
