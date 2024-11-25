@@ -6,7 +6,10 @@
       "domain_suffix": [
         "m-team.cc"
       ],
-      "domain_keyword": []
+      "domain_keyword": [
+        "m-team",
+        "torrent"
+      ]
     }
   ]
 }
